@@ -1,4 +1,0 @@
-hello world lisi
-hello world zhangsan
-add a line
-add another line a
